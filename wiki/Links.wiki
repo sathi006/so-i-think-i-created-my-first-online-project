@@ -1,4 +1,8 @@
 #labels Phase-Requirements,Phase-Implementation,Featured
+http://nsingh.posterous.com/some-important-things-to-keep-in-mind-while-p
+
+prentice Core J2EE Patterns Second Edition  pdf free download
+
 http://www.freejavaguide.com/sql.htm#P.2
 
 j2ee advanced stream materials
@@ -11,3 +15,7 @@ http://www.ebook3000.com/Data-Structures-and-Algorithms-in-Java_149910.html
 http://www.javaworld.com/javaworld/javaqa/2001-04/03-qa-0420-abstract.html?page=2
 
 http://docs.oracle.com/javase/tutorial/java/IandI/objectclass.html
+
+http://www.ebook-x.com/core-javavolume-i-fundamentals-eighth-edition.html
+
+http://freebookgroup.com/category/computer-it/programing/java
