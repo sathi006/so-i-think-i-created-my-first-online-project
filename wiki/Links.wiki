@@ -1,0 +1,13 @@
+#labels Phase-Requirements,Phase-Implementation,Featured
+http://www.freejavaguide.com/sql.htm#P.2
+
+j2ee advanced stream materials
+http://radio.javaranch.com/corey/2004/06/10/1086899519000.html
+http://en.wikipedia.org/wiki/Bitwise_operation#Arithmetic_shift
+http://en.wikipedia.org/wiki/Two%27s_complement
+
+http://www.ebook3000.com/Data-Structures-and-Algorithms-in-Java_149910.html
+
+http://www.javaworld.com/javaworld/javaqa/2001-04/03-qa-0420-abstract.html?page=2
+
+http://docs.oracle.com/javase/tutorial/java/IandI/objectclass.html
