@@ -32,5 +32,11 @@ Running time for algorithm using big O notation
 __________________________________________________
 
 http://www.programminginterview.com/content/running-time-analysis
+
 http://stackoverflow.com/questions/559839/big-o-summary-for-java-collections-framework-implementations
+
 http://www.coderfriendly.com/2009/05/23/java-collections-cheatsheet-v2/
+
+http://stackoverflow.com/questions/487126/is-usage-of-anonymous-classes-in-java-considered-bad-style-or-good
+
+http://docs.oracle.com/javase/tutorial/java/javaOO/innerclasses.html
