@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class dynamic-update="true" mutable="true"
+		name="domain.checklist.CheckList" optimistic-lock="version"
+		polymorphism="implicit" select-before-update="true" table="Checklist_Template">
+
+		<id column="CHECKLIST_TEMPLATE_ID" name="listId">
+			<!-- Changes to use Oracle Sequences instead of Hibernate Incrementor - Zayeem - Starts -->  
+			<!-- 
+			<generator class="increment"></generator>
+			 -->
+			<generator class="native" >
+				<param name="sequence">seq_chlist_template</param>
+			</generator>
+			<!-- Changes to use Oracle Sequences instead of Hibernate Incrementor - Zayeem - Ends -->
+		</id>
+		<property column="Checklist_Desc" name="description" />
+		<set name="checkListItems" lazy="false" cascade="all" fetch="join">
+			<key column="CHECKLIST_TEMPLATE_ID" />
+			<!--			<list-index column="CHECKLIST_TEMPLATE_ITEMS_ID" />-->
+			<one-to-many class="domain.checklist.CheckListItem" />
+		</set>
+
+
+		<component name="createdBy" class="domain.user.User">
+			<property column="CREATED_BY" name="userId" update="false" />
+		</component>
+		<component name="modifiedBy" class="domain.user.User">
+			<property column="MODIFIED_BY" name="userId" />
+		</component>
+		<property column="CREATED_DT" name="createdOn" update="false" />
+		<property column="MODIFIED_DT" name="updatedOn" />
+	</class>
+</hibernate-mapping>
