@@ -1,0 +1,10 @@
+#labels Featured
+org.springframework.web.filter.RequestContextFilter- Servlet 2.3 (older web conrtainer)
+
+org.springframework.web.context.request.RequestContextListener- Servlet 2.4+ listener that exposes the http request object to the current thread, through both LocaleContextHolder and RequestContextHolder. for requests processed outside of Spring's DispatcherServlet,for use with third-party servlets like flex servlet.
+
+
+
+org.springframework.web.context.ContextLoaderListener- Servlet 2.3+ to integrate into any Java-based web framework.Bootstrap listener to start up and shut down Spring's root WebApplicationContext.
+
+org.springframework.web.context.ContextLoaderServlet- Servlet 2.2 Bootstrap servlet to start up Spring's root WebApplicationContext.
