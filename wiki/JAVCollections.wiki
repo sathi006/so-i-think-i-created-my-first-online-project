@@ -1,7 +1,11 @@
 #labels Featured,Phase-Implementation
 javarevisited.blogspot.com
+
 http://www.javamex.com/tutorials/collections/hashmaps2.shtml
+
 http://www.programminginterview.com/content/linked-lists
+
+aptitude- http://www.indiabix.com/aptitude/permutation-and-combination/
 
 Collections Interview Questions
 
