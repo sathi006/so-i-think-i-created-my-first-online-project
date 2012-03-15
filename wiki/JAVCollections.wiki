@@ -7,6 +7,14 @@ http://www.programminginterview.com/content/linked-lists
 
 aptitude- http://www.indiabix.com/aptitude/permutation-and-combination/
 
+http://docs.oracle.com/javase/tutorial/java/generics/gentypeinference.html
+
+http://docs.oracle.com/javase/7/docs/api/java/util/TreeMap.html
+
+http://docs.oracle.com/javase/tutorial/collections/implementations/map.html
+
+Garbage collection-http://java.sun.com/j2se/reference/whitepapers/memorymanagement_whitepaper.pdf
+
 Collections Interview Questions
 
 Q1) What is difference between ArrayList and vector?
