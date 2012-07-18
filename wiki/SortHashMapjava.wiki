@@ -1,3 +1,4 @@
+#labels featured
  /**
      * Gets the list for combo box.
      *
