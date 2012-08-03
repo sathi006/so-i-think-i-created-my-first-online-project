@@ -1,0 +1,16 @@
+<jsp:useBean id="user" class="user.UserData" scope="session"/> 
+<jsp:getProperty  name="user" property="username"/> 
+<jsp:getProperty  name="user" property="email"/> 
+<jsp:getProperty  name="user" property="age"/> 
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+name <input TYPE="TEXT" value="<%=user.getUsername() %>" SIZE="20"><BR>
+Email <input TYPE="TEXT" value="<%=user.getEmail() %>" SIZE="20"><BR>
+age <input TYPE="TEXT" NAME="<%=user.getAge() %>" SIZE="4">
+</body>
+</html>
