@@ -1,0 +1,49 @@
+#labels Featured
+<%@ page autoFlush="true" %> 
+
+<HTML>
+<script type="text/javascript">
+/* function submit1(){
+	   String name = request.getParameter( "textd" );
+alert("hey");
+	session.setAttribute("sessionBoo", request.getParameter("textd"));
+	if(textd.value==true){
+		session.setAttribute("sessionBoo", "truedame");
+	}
+	else{
+		session.setAttribute("sessionBoo", "falselame");
+	}
+	innertext.value =  session.getAttribute("sessionBoo");
+} */
+</script>
+<BODY>
+Hello, world<br>
+</br>
+
+
+<%-- <jsp:setProperty property="boolean1" name="boolean1" /> --%>
+<%-- <%! Boolean boolean1= true;%>
+<% if(Boolean.parseBoolean(request.getParameter("username"))) {%>
+<jsp:include page="/WEB-INF/NewFile.jsp"></jsp:include>
+<% } 
+else { %>
+<jsp:forward page="/WEB-INF/NewFile.jsp"></jsp:forward>
+<% } %>
+<%  
+System.out.println( "Evaluating date now" );
+java.util.Date date= new java.util.Date(); %> --%>
+Hello!  The time is now <%= request.getContextPath() %> <% out.println(new java.util.Date());%>
+<FORM METHOD=POST Action="<%= request.getContextPath() %>/NewFile.jsp">
+<jsp:useBean id="user" class="user.UserData" scope="session"/>
+<jsp:setProperty name="user" property="*"/> 
+What's your name? <INPUT TYPE="TEXT" name="username" size="20"><BR>
+What's your e-mail address? <INPUT TYPE="TEXT" name="email" size="20"><BR>
+What's your age? <INPUT TYPE="TEXT" name="age" size="4">
+
+<input type="submit"  title="click" value="Click me"> 
+hey this is the input i gave previously <%= session.getAttribute("sessionBoo") %>
+</FORM>
+
+<Br/>
+</BODY>
+</HTML>
