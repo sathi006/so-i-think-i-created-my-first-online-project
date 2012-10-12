@@ -1,7 +1,8 @@
+#labels Featured
 Windows 7 windows explorer pinned to starty menu default open
 
 
 %SystemRoot%\explorer.exe /e,::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
 
 
-in properties
+in properties fr
