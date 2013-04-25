@@ -142,6 +142,12 @@ When you're done, stop the daemons with:
 Fully-Distributed Operation
 
 
-Hpow To Configure Hosts file
+How To Configure Hosts file
+
 http://hayesdavis.net/2008/06/14/running-hadoop-on-windows/
+
 http://www.cygwin.com/
+
+Eclipse Plugin for Juno: 
+
+http://yiyujia.blogspot.com/2012/10/eclipse-mapreduce-plugin-build-for.html
