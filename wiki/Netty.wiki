@@ -3,3 +3,5 @@ http://www.rune-server.org/programming/application-development/264664-netty-clie
 
 
 http://mastertheboss.com/netty/jboss-netty-tutorial
+
+http://www.edumobile.org/android/android-development/socket-programming/
