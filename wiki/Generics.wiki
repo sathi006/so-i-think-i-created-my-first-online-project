@@ -1,1 +1,2 @@
+#labels Featured
 http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html
