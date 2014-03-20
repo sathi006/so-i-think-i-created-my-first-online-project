@@ -1,0 +1,1 @@
+http://www.angelikalanger.com/Lambdas/Lambdas.pdf
