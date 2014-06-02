@@ -1,5 +1,8 @@
 #labels Featured
-Background adding child and kinetic scroll of items added using factory class/constructor 
+Background adding child and kinetic scroll of items added using factory class/constructor - 
+http://www.nbilyk.com/kinetic-scrolling-example
+
+http://code.google.com/p/nbflexlib/source/browse/trunk/flex3/src/com/nbilyk/utils/KineticScrollManager.as
 
 Adding Dictionary and validating at Client/Server end? Decide which is better?
 
