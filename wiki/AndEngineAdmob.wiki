@@ -1,1 +1,5 @@
 http://www.andengine.org/forums/gles2/new-admob-integration-problem-t14638-20.html
+
+GMAIL =- Autosend
+
+http://stackoverflow.com/questions/2020088/sending-email-in-android-using-javamail-api-without-using-the-default-built-in-a
