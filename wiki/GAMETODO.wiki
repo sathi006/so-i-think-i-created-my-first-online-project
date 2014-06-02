@@ -1,10 +1,11 @@
+#labels Featured
 Background adding child and kinetic scroll of items added using factory class/constructor 
 
 Adding Dictionary and validating at Client/Server end? Decide which is better?
 
 Adding sounds and music.
 
-Hide Keyboard on press of host and minimise keyboard on press of Guess.
+Hide Keyboard on press of host and minimise keyboard on press of Guess. - Done
 
 Adding list of channels/Rooms to play.
 
