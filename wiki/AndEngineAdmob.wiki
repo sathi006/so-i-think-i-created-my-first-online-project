@@ -3,3 +3,10 @@ http://www.andengine.org/forums/gles2/new-admob-integration-problem-t14638-20.ht
 GMAIL =- Autosend
 
 http://stackoverflow.com/questions/2020088/sending-email-in-android-using-javamail-api-without-using-the-default-built-in-a
+
+
+marketlink sharing
+===========
+
+
+http://stackoverflow.com/questions/14140123/link-to-share-app-in-the-play-store
