@@ -14,3 +14,8 @@ http://stackoverflow.com/questions/14140123/link-to-share-app-in-the-play-store
 
 
 http://support.mobileapptracking.com/entries/22561636-How-Google-Play-Install-Referrer-Works
+
+
+QR code creator:
+
+http://createqrcode.appspot.com/
