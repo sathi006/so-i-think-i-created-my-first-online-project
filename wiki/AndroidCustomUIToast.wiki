@@ -1,0 +1,11 @@
+#labels Featured
+http://www.techrepublic.com/blog/software-engineer/theming-toast-messages-with-the-android-sdk/
+
+
+http://programmerguru.com/android-tutorial/android-custom-toast-example/
+
+
+Color XML generator - http://android-color-generator.com/
+
+
+Android custom ui examples - http://androidexample.com/All-Examples/index.php?view=examples
