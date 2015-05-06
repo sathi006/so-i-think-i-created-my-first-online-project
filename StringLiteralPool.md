@@ -1,0 +1,1 @@
+http://www.javaranch.com/journal/200409/ScjpTipLine-StringsLiterally.html

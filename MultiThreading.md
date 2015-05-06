@@ -1,0 +1,1 @@
+http://www.javalobby.org/articles/thread-safe/index.jsp?source=archives

@@ -1,0 +1,1 @@
+http://docs.jquery.com/Tutorials:Getting_Started_with_jQuery#Setup

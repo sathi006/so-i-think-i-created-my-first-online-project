@@ -1,0 +1,1 @@
+http://www.erpgreat.com/java/difference-between-servletcontext-and-servletconfig.htm

@@ -1,0 +1,1 @@
+http://www.sourcecodeonline.com/details/paid_to_click_script.html
